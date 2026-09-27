@@ -1,27 +1,49 @@
-# Jackelyn
-Hi 👋🏻 I'm Jacky 
-# 💫 About Me:
-<br>🎓 I’m currently studying BSIS<br>💻 I’m currently working on web-based projects<br>🌱 I’m currently learning Web Development<br>🤝 I’m looking to collaborate on creative projects<br>🔧 I’m improving my coding and GitHub skills<br>💬 Ask me about my projects<br>✨ Fun fact: I love learning new things<br>🎯 Goal: Build, Learn, Improve.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jackelyn  Quino) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jackelyn lamit Quino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jackelyn lamit Quino) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Quino Jackelyn L. ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Jacky ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Jackelyn lamit Quino) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jackelyn lamit Quino) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackelynlamitquino@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jackelyn Quino &theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Jackelyn Quino &theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jackelyn Quino &theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jackelyn Quino &theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+Jackelyn L. Quino — GitHub Profile README
+Copy the Markdown below into your GitHub profile README. After creating the profile repository, replaceYOUR-GITHUB-USERNAME with your actual GitHub username.
+<div align="center">
+# s ZDSPGC MIDSALIP CAMPUS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;I'm+Jackelyn+L.+Quino;Information+Systems+Student;BSIS+Student+%7C+Future+IT+Professional;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+### s Hello, welcome to my GitHub profile!
+</div>
 ---
-[![](https://komarev.com/ghpvc/?username=Jackelyn Quino &icon=10&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Jacky ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jackelyn Quino ) 
+## sss About Me
+s I am currently studying **Bachelor of Science in Information Systems (BSIS)**.
+s **ZDSPGC – Midsalip Campus**
+s I am interested in **Web Development, Information Systems, and Technology**.
+s I am currently learning **HTML, CSS, JavaScript, GitHub, and basic programming**.
+s I enjoy creating school projects and improving my technical skills.
+s My goal is to become a skilled and creative IT professional.
+---
+## ss Skills & Technologies
+<p align="center">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></p>
+---
+## s Currently Learning
+- s Web Development- s Programming Fundamentals- ss Information Systems- s System Development- s Git & GitHub- s Web Design
+---
+## s Projects
+### s Web-Based Flower Bouquet and Printing Services Ordering SystemA school project focused on creating a web-based system for ordering flower bouquets and printing services.
+### s Personal GitHub PortfolioA personal space where I can showcase my projects, learning progress, and programming journey.
+> More projects will be added as I continue learning and building.
+---
+## s GitHub Stats
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  <br/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
+> **Important:** Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+---
+## s My Learning Journey
+```textLearn → Practice → Build → Improve → Repeat```I believe that every project is an opportunity to learn something new.  I am continuously working on improving my skills and gaining experience in technology.
+---
+## s My Goal
+> **"Keep learning, keep building, and never stop improving."**
+---
+## s Connect With Me
+<p align="center">
+<!-- Replace the # symbols with your real social-media links if you want them displayed. -->
+<a href="#">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="#">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="#">  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
+---
+<div align="center">
+### s Thanks for visiting my profile! s
+**Jackelyn L. Quino**  *BSIS Student | ZDSPGC – Midsalip Campus*
+</div>
