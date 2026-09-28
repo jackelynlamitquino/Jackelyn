@@ -1,49 +1,24 @@
-Jackelyn L. Quino — GitHub Profile README
-Copy the Markdown below into your GitHub profile README. After creating the profile repository, replaceYOUR-GITHUB-USERNAME with your actual GitHub username.
-<div align="center">
-# s ZDSPGC MIDSALIP CAMPUS
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;I'm+Jackelyn+L.+Quino;Information+Systems+Student;BSIS+Student+%7C+Future+IT+Professional;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
-### s Hello, welcome to my GitHub profile!
-</div>
+# 💫 About Me:
+🎓 I’m currently studying BSIS<br>💻 I’m currently working on school and web-based projects<br>🌱 I’m currently learning Web Development and Information Systems<br>🤝 I’m looking to collaborate on student and web projects<br>🔧 I’m improving my skills in HTML, CSS, JavaScript, and GitHub<br>💬 Ask me about my projects and what I’m currently learning<br>✨ Fun fact: I enjoy learning new things and creating simple websites<br>🎯 Goal: To become a skilled and creative IT professional
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jackelyn Quino) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jackelyn lamit Quino) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Jacky) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jackelyn lamit Quino) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackelynlamitquino@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=qjackelynl-cpu &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=qjackelynl-cpu &theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=qjackelynl-cpu &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qjackelynl-cpu &theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
 ---
-## sss About Me
-s I am currently studying **Bachelor of Science in Information Systems (BSIS)**.
-s **ZDSPGC – Midsalip Campus**
-s I am interested in **Web Development, Information Systems, and Technology**.
-s I am currently learning **HTML, CSS, JavaScript, GitHub, and basic programming**.
-s I enjoy creating school projects and improving my technical skills.
-s My goal is to become a skilled and creative IT professional.
----
-## ss Skills & Technologies
-<p align="center">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></p>
----
-## s Currently Learning
-- s Web Development- s Programming Fundamentals- ss Information Systems- s System Development- s Git & GitHub- s Web Design
----
-## s Projects
-### s Web-Based Flower Bouquet and Printing Services Ordering SystemA school project focused on creating a web-based system for ordering flower bouquets and printing services.
-### s Personal GitHub PortfolioA personal space where I can showcase my projects, learning progress, and programming journey.
-> More projects will be added as I continue learning and building.
----
-## s GitHub Stats
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  <br/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
-> **Important:** Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
----
-## s My Learning Journey
-```textLearn → Practice → Build → Improve → Repeat```I believe that every project is an opportunity to learn something new.  I am continuously working on improving my skills and gaining experience in technology.
----
-## s My Goal
-> **"Keep learning, keep building, and never stop improving."**
----
-## s Connect With Me
-<p align="center">
-<!-- Replace the # symbols with your real social-media links if you want them displayed. -->
-<a href="#">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="#">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="#">  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-</p>
----
-<div align="center">
-### s Thanks for visiting my profile! s
-**Jackelyn L. Quino**  *BSIS Student | ZDSPGC – Midsalip Campus*
-</div>
+[![](https://komarev.com/ghpvc/?username=qjackelynl-cpu &icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
