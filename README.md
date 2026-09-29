@@ -1,82 +1,76 @@
-# 💫 About Me
+<h1 data-importer="text" align="center">Zamboanga Del Sur Provincial Government Collage ( <br>ZDSPGC)- Midsalip campus</h1>
 
-🎓 I’m currently studying **BSIS (Bachelor of Science in Information Systems)**  
-💻 I’m currently working on **school and web-based projects**  
-🌱 I’m currently learning **Web Development and Information Systems**  
-🤝 I’m looking to collaborate on **student and web projects**  
-🔧 I’m improving my skills in **HTML, CSS, JavaScript, and GitHub**  
-💬 Ask me about my **projects and what I’m currently learning**  
-✨ Fun fact: **I enjoy learning new things and creating simple websites**  
-🎯 Goal: **To become a skilled and creative IT professional**
+###
 
----
+<p data-importer="text" align="left">My name is Jackelyn Quino and I'm a 20 from Dataga, Sominot Zamboanga Del Sur</p>
 
-# 🌐 Socials
+###
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JackelynQuino)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/JackelynLamitQuino)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Jacky)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@JackelynLamitQuino)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:jackelynlamitquino@gmail.com)
+<p data-importer="text" align="left">✨ Creating websites and learning new things<br>📚 I'm currently learning: Web Development, Information Systems, HTML, CSS & JavaScript<br>🎯 Goals: To become a skilled and creative IT professional<br>🎲 Fun fact: I enjoy creating simple websites and exploring new technologies</p>
 
----
+###
 
-# 💻 Tech Stack
+<h2 data-importer="text" align="left">About me</h2>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+###
 
----
+<h2 data-importer="text" align="left">Skills</h2>
 
-# 📊 GitHub Stats
+###
 
-![](https://github-readme-stats.shion.dev/api?username=qjackelynl-cpu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-<br/>
+###
 
-![](https://streak-stats.demolab.com/?user=qjackelynl-cpu&theme=tokyonight&hide_border=false)
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="Jackelyn lamit Quino" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="Jackelyn lamit Quino" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
+</div>
 
-<br/>
+###
 
----
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Jackelyn Quino ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jackelyn%20Quino%20&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
-# 🗣️ Most Used Languages
+###
 
-![Subanen](https://img.shields.io/badge/Subanen-🌿-brightgreen)
-![Cebuano](https://img.shields.io/badge/Cebuano-🗣️-blue)
-![Tagalog](https://img.shields.io/badge/Tagalog-🇵🇭-orange)
-![English](https://img.shields.io/badge/English-🌎-red)
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=qjackelynl-cpu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
-
----
-
-### 👀 Profile Views
-
-[![](https://komarev.com/ghpvc/?username=qjackelynl-cpu&icon=0&color=2)](https://visitcount.itsvg.in)
-
----
-
-### 💙 Thanks for visiting my profile!
-
-**Keep learning. Keep coding. Keep building. 🚀**
-
-<!-- Proudly created with GPRM -->
+###
